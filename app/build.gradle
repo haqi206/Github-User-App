@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    compileSdk 31
+    compileSdk 33
 
     defaultConfig {
         applicationId "com.example.submission2"
@@ -16,7 +16,7 @@ android {
         versionName "1.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
-        buildConfigField("String", "API_KEY", '"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"')
+        buildConfigField("String", "API_KEY", '"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"')
         buildConfigField("String", "BASE_URL", '"https://api.github.com/"')
     }
 
