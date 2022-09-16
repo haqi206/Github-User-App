@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Submission3</string>
+    <string name="search">search</string>
+    <string name="avatar">avatar</string>
+    <string name="name">name</string>
+    <string name="username">Username</string>
+    <string name="tap_detail">Tap for detail</string>
+    <string name="search_hint">Masukkan username</string>
+    <string name="dummy_location">location</string>
+    <string name="dummy_repo">0</string>
+    <string name="dummy_followers">0</string>
+    <string name="dummy_following">0</string>
+    <string name="company">company</string>
+    <string name="repo">Repository</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="favorite">favorite</string>
+    <string name="theme">theme</string>
+    <string name="dark_mode">Dark Mode</string>
+
+</resources>
